@@ -22,7 +22,7 @@ I feel I should mention I made none of these credits go to anyone who put waterm
 
 [Emotiguy Subreddit](https://www.reddit.com/r/emotiguy)
 
-### Spin-off Servers (all of these and more can be found in the #other-emotiguy-servers channel in the main discord)
+## Spin-off Servers (all of these and more can be found in the #other-emotiguy-servers channel in the main discord)
 
 [Simon Sumpremacy](https://discord.gg/MccbBUHUFE)
 
