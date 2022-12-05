@@ -19,9 +19,12 @@ I feel I should mention I made none of these credits go to anyone who put waterm
 
 [Emotiguy Main Discord](https://discord.gg/emotiguy)
 
+[Emotiguy Main Discord Community Server Page](https://discord.com/servers/emotiguy-emotes-772459755633377310)
+
 [Emotiguy Alternative Discord](https://discord.gg/XbfX6BFpY6)
 
 [Emotiguy Subreddit](https://www.reddit.com/r/emotiguy)
+
 
 ## Spin-off Servers (all of these and more can be found in the #other-emotiguy-servers channel in the main discord)
 
