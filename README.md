@@ -34,3 +34,5 @@ I feel I should mention I made none of these credits go to anyone who put waterm
 
 [GioPotatoes' Emotiguy Zone](https://discord.gg/azpr5BuSzs)
 
+[Emotimans Emoti-Emoji Imporium](https://discord.gg/Ny9jbk8HFe)
+
