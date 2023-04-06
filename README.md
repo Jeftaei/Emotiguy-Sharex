@@ -1,7 +1,7 @@
 # Emotiguy-Sharex
 Sharex image effect for emotiguy
 
-1. Download the Emotiguy folder from the [mega link](https://mega.nz/folder/ncQWyK6K#8tQ-FygmUxt_f3MVhNp4ZQ) (new will be the most up to date, old is there as a sort of archieve thats smaller to download)
+1. Download the Emotiguy folder from the [mega link](https://mega.nz/folder/ncQWyK6K#8tQ-FygmUxt_f3MVhNp4ZQ) (newest recommended, however old ones will be on there aswell (maybe))
 2. Download the sharex image effect (Emotiguy.sxie) and double click it to open with sharex
 3. Find the "ImageFolder" field in the effect settings and set it to the folder with emotiguy images in it
     ![ImageFolder Highlighted](https://catgirls.dance/RSzBm3AzhIPo.png)
